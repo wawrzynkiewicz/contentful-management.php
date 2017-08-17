@@ -12,7 +12,7 @@ namespace Contentful\Management\Role\Constraint;
 /**
  * EqualityConstraint class.
  *
- * The EqualityConstraint can be used to compare an entity's field
+ * The EqualityConstraint can be used to compare an resource's field
  * or meta dataagainst a specific value.
  *
  * EqualityConstraints are one of the very basic constraints
